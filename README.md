@@ -57,3 +57,4 @@ This project is not affiliated with otakudesu.cam in any way. This project is ju
 
 ## Support
 If you like this project, please support me by giving a star ⭐️ for this repository. Thank you 😊
+THANKS for otakudesu
