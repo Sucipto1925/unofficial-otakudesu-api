@@ -33,6 +33,8 @@ app.use('*',(req,res) =>{
         message: 'read the docs here https://github.com/rakarmp/unofficial-otakudesu-api'
     })
 })
-app.listen(port, () => {
-    console.log('listening on port', port)
-})
+//app.listen(port, () => {
+//    console.log('listening on port', port)
+//})
+
+module.exports = app;
